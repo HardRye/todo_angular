@@ -1,7 +1,7 @@
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
-import { Todo } from './todo';
+import { Todo } from './todo/todo';
 
 describe('AppComponent', () => {
   beforeEach(() => {
